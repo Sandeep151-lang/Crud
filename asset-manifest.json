@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Crud/static/css/main.8f5d576b.chunk.css",
+    "main.js": "/Crud/static/js/main.68f4304f.chunk.js",
+    "main.js.map": "/Crud/static/js/main.68f4304f.chunk.js.map",
+    "runtime-main.js": "/Crud/static/js/runtime-main.1af52dee.js",
+    "runtime-main.js.map": "/Crud/static/js/runtime-main.1af52dee.js.map",
+    "static/css/2.0975cee1.chunk.css": "/Crud/static/css/2.0975cee1.chunk.css",
+    "static/js/2.2cc95ffb.chunk.js": "/Crud/static/js/2.2cc95ffb.chunk.js",
+    "static/js/2.2cc95ffb.chunk.js.map": "/Crud/static/js/2.2cc95ffb.chunk.js.map",
+    "index.html": "/Crud/index.html",
+    "static/css/2.0975cee1.chunk.css.map": "/Crud/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.8f5d576b.chunk.css.map": "/Crud/static/css/main.8f5d576b.chunk.css.map",
+    "static/js/2.2cc95ffb.chunk.js.LICENSE.txt": "/Crud/static/js/2.2cc95ffb.chunk.js.LICENSE.txt",
+    "static/media/undraw_profile.28817a9a.svg": "/Crud/static/media/undraw_profile.28817a9a.svg",
+    "static/media/undraw_rocket.6040710a.svg": "/Crud/static/media/undraw_rocket.6040710a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1af52dee.js",
+    "static/css/2.0975cee1.chunk.css",
+    "static/js/2.2cc95ffb.chunk.js",
+    "static/css/main.8f5d576b.chunk.css",
+    "static/js/main.68f4304f.chunk.js"
+  ]
+}
